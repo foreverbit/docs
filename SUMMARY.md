@@ -1,24 +1,19 @@
 # Table of contents
 
-* [👋 Welcome to Biternal](README.md)
+* [👋 Whitepaper](README.md)
 
-## Overview
+## Applications
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 What we do](applications/what-we-do.md)
+* [✨ Our Features](applications/our-features.md)
 
-## Product Guides
+## How to
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [📪 Making a post](how-to/making-a-post.md)
+* [📎 Understanding Projects](how-to/understanding-projects.md)
 
-## Fundamentals
+## Developer Guides
 
-* [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥️ For Developers](use-cases/for-developers.md)
+* [🛠️ Getting set up](developer-guides/getting-set-up/README.md)
+  * [📝 Setting permissions](developer-guides/getting-set-up/setting-permissions.md)
+  * [🧑 Inviting Members](developer-guides/getting-set-up/inviting-members.md)

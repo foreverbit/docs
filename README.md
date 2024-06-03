@@ -1,4 +1,4 @@
-# 👋 Welcome to Biternal
+# 👋 Whitepaper
 
 {% hint style="info" %}
 **GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
@@ -20,26 +20,26 @@ Here are a couple of example overviews from products with really great docs:
 
 ## Quick links
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="applications/what-we-do.md" %}
+[what-we-do.md](applications/what-we-do.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="applications/our-features.md" %}
+[our-features.md](applications/our-features.md)
 {% endcontent-ref %}
 
 ## Get Started
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
+{% content-ref url="developer-guides/getting-set-up/" %}
+[getting-set-up](developer-guides/getting-set-up/)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% content-ref url="developer-guides/getting-set-up/setting-permissions.md" %}
+[setting-permissions.md](developer-guides/getting-set-up/setting-permissions.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
+{% content-ref url="developer-guides/getting-set-up/inviting-members.md" %}
+[inviting-members.md](developer-guides/getting-set-up/inviting-members.md)
 {% endcontent-ref %}
