@@ -1,6 +1,6 @@
 # WhitePaper
 
-Biternal: An Automatic, Decentralized, Smart Contract Blockchain
+**Biternal: An Automatic, Decentralized, Smart Contract Blockchain**
 
 ## Abstract
 
