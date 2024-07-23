@@ -24,7 +24,7 @@ Each block has a gas limit that restricts the number of transactions it can incl
 
 ## Token
 
-We utilize the native token of Biternal, called `BIT`, to power the Biternal system. BIT serves as the balance for executing passenger transactions and as a reward to incentivize miners to execute pod transactions. The BIT token has two stages. In the first stage, all BIT tokens will be mined and rewarded to miners, similar to the process in Bitcoin, until the reward reaches one BIT. Once this threshold is reached, the protocol will transition to the second stage. In the second stage, BIT rewards will consist of 1 BIT, and transactions fee will be partially taken by miners and partially burned. In the genesis block, there will be a proportion of BIT allocated to the Biternal team to support the project, while the remaining tokens will be mined directly. It is important to note that there will be no Initial Coin Offering (ICO) for the BIT token.
+We utilize the native token of Biternal, called `BIT`, to power the Biternal system. BIT serves as the balance for executing passenger transactions and as a reward to incentivize miners to execute pod transactions. The BIT token has two stages. In the first stage, all BIT tokens will be mined and rewarded to miners, similar to the process in Bitcoin, until the reward reaches one BIT. Once this threshold is reached, the protocol will transition to the second stage. In the second stage, BIT rewards will consist of 1 BIT, and transactions fee will be partially taken by miners and partially burned. In the genesis block, there will be a proportion of BIT allocated to the Biternal team to support the project, while the remaining tokens will be mined directly.
 
 In Ethereum, the principle of "code is law" is upheld. However, in Biternal, with the introduction of `BIT` and `Pod`, the concept of "code is life" takes center stage.
 
@@ -59,7 +59,7 @@ In Ethereum, smart contracts can be programmed to be composable. In Biternal, sm
 
 when AI features are integrated into smart contracts, they give rise to AI consciousness contracts, which possess a sense of life akin to carbon-based animals.
 
-Or when there is possible to extract human consciousness to smart contract, human will be reborn in blockchain. When human's descendants use enery to commemorate them, human will be alive forever.
+Or when there is possible to extract human consciousness to smart contract, human will be reborn in blockchain. Human's descendants use enery to commemorate them, human will be alive forever.
 
 
 ## Conclusion
