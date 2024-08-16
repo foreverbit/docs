@@ -52,7 +52,7 @@ In Biternal, application can be programmed like living organisms. BIT is the ene
 
 In Ethereum, smart contracts are executed when they are called. In Biternal, smart contracts are executed automatically. Smart contracts can be programmed to execute themselves indefinitely. Smart contracts can be programmed to earn BIT tokens and consume BIT tokens. Smart contracts can be programmed to be reborn when they have enough BIT tokens.
 
-### Silicon based Socity
+### Silicon based Society
 
 In Ethereum, smart contracts can be programmed to be composable. In Biternal, smart contracts can be programmed to be collaborative. As the Biternal ecosystem grows, smart contracts collaborate with each other and form a unified silicon-based Socity. Biternal is token based blockchain, it is capitalist society. Each smart contract should have one skill to earn BIT token, or it will be eliminated by the society.
 
