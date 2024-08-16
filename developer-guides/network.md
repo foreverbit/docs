@@ -1,12 +1,12 @@
 # Network Information
 
-## Mainnet RPC endpoints
+#### Mainnet RPC endpoints
 
 | Name | RPC URL | Chain ID | Block Explorer |
 |------|---------|----------|----------------|
 | Mainnet | https://mainnet.biternal.org | 1301 | [Explorer](https://explorer.biternal.org/) |
 
-## Testnet RPC endpoints
+#### Testnet RPC endpoints
 
 | Name | RPC URL | Chain ID | Block Explorer |
 |------|---------|----------|----------------|
